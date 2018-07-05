@@ -1,0 +1,1 @@
+These are the jQuery scripts used in the skin, including custom functions.
